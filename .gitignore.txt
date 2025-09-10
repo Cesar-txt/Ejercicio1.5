@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.vssscc
+*.vsscc
+*.vssscc
+*.vssscc
+*.vssscc
+*.vssscc
+
+# Binarios y objetos
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.log

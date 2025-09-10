@@ -1,0 +1,11 @@
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\bin\Debug\EJERCICIO1.5.exe.config
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\bin\Debug\EJERCICIO1.5.exe
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\bin\Debug\EJERCICIO1.5.pdb
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1._5.Form1.resources
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1._5.Properties.Resources.resources
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.csproj.GenerateResource.cache
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.exe
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.pdb
+C:\Users\X\Desktop\Estructura de datos\EJERCICIO1.5\obj\Debug\EJERCICIO1.5.exe.config
